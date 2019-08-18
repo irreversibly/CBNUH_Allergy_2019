@@ -30,11 +30,11 @@
 
 - 공부하면서 참고할 다음 자료는 다음 link를 클릭하면 다운로드 가능합니다.  
 
-1. [한국 천식 진료 지침](http://www.allergy.or.kr/file/180629_01.pdf)
-2. [알레르기비염 - 임상의를 위한 진료가이드라인](http://www.allergy.or.kr/file/allergic2015.pdf)
-3. [만성기침 진료기침](http://www.allergy.or.kr/member/sub02_2.html)
-4. [충북대병원 권역호흡기센터. 2014. [알레르기검사 동영상]](
-5. [알레르기 예방 및 치료 관련 애니메이션자료](http://e-allergy.org/contents/sub04_06.html)
+1. 한국 천식 진료 지침 (http://www.allergy.or.kr/file/180629_01.pdf)
+2. 알레르기비염 - 임상의를 위한 진료가이드라인 (http://www.allergy.or.kr/file/allergic2015.pdf)
+3. 만성기침 진료기침 (http://www.allergy.or.kr/member/sub02_2.html)
+4. 충북대병원 권역호흡기센터. 2014. 알레르기검사 동영상 교육자료 (update 예정)
+5. 알레르기 예방 및 치료 관련 애니메이션자료 (http://e-allergy.org/contents/sub04_06.html)
 
     1) 천식 예방관리수칙
     2) 알레르기비염 예방관리수칙
