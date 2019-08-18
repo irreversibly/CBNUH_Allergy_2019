@@ -1,6 +1,6 @@
 # 2019년 충북대학교병원 알레르기내과 - 본과3학년 실습
 
-![Winter is Coming](./img/winter_is_coming.png)
+![Winter_is_coming](./img/Winter_is_coming.png)
 
 ## 본과 3학년  알레르기내과 실습을 환영합니다. 
 
